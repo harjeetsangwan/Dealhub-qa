@@ -1,0 +1,22 @@
+{
+  "NODE_ENV": "development",
+  "mysql": {
+    "DB_HOST": "localhost",
+    "DB_USER": "root",
+    // write your mysql password
+    "DB_PASS": "wavxng_1",
+    // your mysql port no
+    "DB_PORT": "3306",
+    "DB_NAME": "dealhub_qa"
+  },
+  "HOST": "localhost",
+  "PORT": "5050",
+  "FromEmail": "mll.it@mahindra.com",
+  "EmailPassword": "fhhgszsyfvrsgtll",
+  "Targetname": "STARTTLS/smtp.office365.com",
+  "port": "587",
+  "hostname": "smtp.office365.com",
+  "usecreditionals": "Y",
+  "enablessl": "Y",
+  "IsBodyHtml": "Y"
+}
